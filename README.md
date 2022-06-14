@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Política de Privacidade - CryptoApp
+
+Website that presents privacy policies, required by Playstore for the launch of the CryptoApp application.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
