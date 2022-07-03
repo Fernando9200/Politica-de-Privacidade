@@ -1,6 +1,6 @@
 # Política de Privacidade - CryptoApp
 
-Website that presents privacy policies, required by Playstore for the launch of the CryptoApp application.
+This is a website that presents privacy policies, required by Playstore for the launch of the CryptoApp application.
 
 ## Getting Started with Create React App
 
